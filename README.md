@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @J3Destroyer, or J3 for short
+- 👀 I’m interested in C++, Java, Python and C#
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on C++
+- 📫 How to reach me lol no
