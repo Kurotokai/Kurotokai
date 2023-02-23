@@ -1,7 +1,3 @@
-include <iostream>
-  
-using std::cout;
-  
 int main() {
 
     cout << "Hello! I’m Wong Jing Yuan, or otherwise known by my aliases Mr_J3 or Kurotokai.";
