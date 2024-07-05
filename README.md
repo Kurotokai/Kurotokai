@@ -1,8 +1,2 @@
-    using namespace std;
-    
-    using std::cout; // Alternative (and superior) way to shortern std::cout
-    
-    cout << "Hello! I’m Wong Jing Yuan, or otherwise known by my aliases Mr_J3 or Kurotokai.";
-    cout << "My pronouns are He/Him, but you can call me whatever!";
-    cout << "I’m currently working on C++, and hopefully Python in the future.";
-    cout << "I’m currently learning C++, so let me know if you have any advice!";
+## About Me
+Hello! I'm a Singaporean student studying Information Security in Polytechnic, and interested in programming. Make sure to reach out to say hi, or to collaborate on any project I'm working on!
